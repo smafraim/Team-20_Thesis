@@ -17,4 +17,14 @@
 | 9             | Seismic quiescence as an indicator for large earthquakes in a system of self-organized criticality | Hainzl S, Zoller G, Kurths J, Zschau J | 2000 | Examines seismic quiescence as an indicator for large earthquakes in a self-organized criticality system. |
 | 10            | Non-Poissonian earthquake clustering and the hidden Markov model as bases for earthquake forecasting in California | Ebel JE, Chambers DW, Kafka AL, Baglivo JA | 2007 | Discusses non-Poissonian earthquake clustering and the hidden Markov model for earthquake forecasting in California. |
 
-Please note that the publication year for the first paper was not specified in the provided references. You may want to verify the publication year of that paper before finalizing your literature review.
+## 3. Research Gap:
+
+Despite the significant seismic activity potential in the region situated between the Eurasian and Indian plates, there is a notable lack of comprehensive and accurate earthquake prediction models specifically tailored to Bangladesh. Existing research has primarily focused on earthquake prediction in other regions, often overlooking the unique geological characteristics and seismic risks that Bangladesh presents. Therefore, a critical research gap exists in developing and validating machine learning-based earthquake prediction models specifically designed for Bangladesh, which could enhance preparedness and mitigation efforts in this highly vulnerable area. Addressing this gap is essential for improving the region's resilience to seismic hazards and ensuring the safety of its population and infrastructure.
+
+## 4. Data Overview:
+
+1) https://ds.iris.edu/ieb/index.html?format=text&nodata=4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZVcaller=self&name=S.E.%20Asia%20Region&zm=5&mt=ter
+
+2) climate-changebd.csv
+3) export_EMSC.csv
+4) BD_Earthquake.xlsx
