@@ -6,7 +6,7 @@
 
 | **Reference** | **Title** | **Authors** | **Publication Year** | **Key Findings** |
 |---------------|-----------|-------------|----------------------|------------------|
-| 1             | Earthquake magnitude prediction in Hindukush region using machine learning techniques | K. M. Asim, F. Martı´nez-A´lvarez, A. Basit, T. Iqbal | Year not specified | Machine learning techniques used for earthquake magnitude prediction in Hindukush region. |
+| 1             | Earthquake magnitude prediction in Hindukush region using machine learning techniques | K. M. Asim, F. Martı´nez-A´lvarez, A. Basit, T. Iqbal | 2016 | Machine learning techniques used for earthquake magnitude prediction in Hindukush region. |
 | 2             | Earthquake prediction by RBF neural network ensemble | Liu Y, Wang Y, Li Y, Zhang B, Wu G | 2004 | Prediction of earthquakes using a radial basis function (RBF) neural network ensemble. |
 | 3             | Earthquake prediction by animals: evolution and sensory perception | Kirschvink JL | 2000 | Examines earthquake prediction by animals, discussing evolution and sensory perception. |
 | 4             | The magnitude distribution of declustered earthquakes in Southern California | Knopoff L | 2000 | Analyzes the magnitude distribution of declustered earthquakes in Southern California. |
