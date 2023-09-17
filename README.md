@@ -1,5 +1,8 @@
 # Thesis_Earthquake-prediction
 
+-------
+
+## 2. Literature Review 
 
 | **Reference** | **Title** | **Authors** | **Publication Year** | **Key Findings** |
 |---------------|-----------|-------------|----------------------|------------------|
