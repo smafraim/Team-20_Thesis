@@ -42,11 +42,23 @@ In summary, this thesis holds significance both in terms of its potential humani
 
 ## 5. Aims/ Objectives:
 
-## 3. Research Gap:
+**Aims:**
+The primary aim of this thesis is to develop a robust and region-specific earthquake prediction model for Bangladesh, situated between the Eurasian and Indian tectonic plates. This model will be designed to enhance disaster preparedness and mitigate the impact of seismic events in the region.
+
+**Objectives:**
+1. To collect and preprocess historical seismic data from Bangladesh, spanning a significant time frame, in order to create a reliable dataset for analysis.
+
+2. To employ machine learning techniques, including feature engineering and model training, to develop an accurate earthquake prediction model tailored to the geological characteristics of Bangladesh.
+
+3. To evaluate the performance of the developed earthquake prediction model using appropriate validation methods and metrics, ensuring its reliability and effectiveness in predicting seismic events in the region.
+
+These objectives, when achieved, will contribute to the overarching aim of improving earthquake prediction and disaster preparedness in Bangladesh, addressing the critical research gap identified in the problem statement and literature review.
+
+## 6. Research Gap:
 
 Despite the significant seismic activity potential in the region situated between the Eurasian and Indian plates, there is a notable lack of comprehensive and accurate earthquake prediction models specifically tailored to Bangladesh. Existing research has primarily focused on earthquake prediction in other regions, often overlooking the unique geological characteristics and seismic risks that Bangladesh presents. Therefore, a critical research gap exists in developing and validating machine learning-based earthquake prediction models specifically designed for Bangladesh, which could enhance preparedness and mitigation efforts in this highly vulnerable area. Addressing this gap is essential for improving the region's resilience to seismic hazards and ensuring the safety of its population and infrastructure.
 
-## 4. Data Overview:
+## Data Overview:
 
 1) https://ds.iris.edu/ieb/index.html?format=text&nodata=4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZVcaller=self&name=S.E.%20Asia%20Region&zm=5&mt=ter
 
