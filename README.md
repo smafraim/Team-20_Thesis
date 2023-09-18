@@ -57,13 +57,8 @@ In summary, this thesis holds significance both in terms of its potential humani
 The primary aim of this thesis is to develop a robust and region-specific earthquake prediction model for Bangladesh, situated between the Eurasian and Indian tectonic plates. This model will be designed to enhance disaster preparedness and mitigate the impact of seismic events in the region.
 
 **Objectives:**
-1. To collect and preprocess historical seismic data from Bangladesh, spanning a significant time frame, in order to create a reliable dataset for analysis.
+1. To employ machine learning techniques, including feature engineering and model training, to develop an accurate earthquake prediction model tailored to the geological characteristics of Bangladesh.
 
-2. To employ machine learning techniques, including feature engineering and model training, to develop an accurate earthquake prediction model tailored to the geological characteristics of Bangladesh.
-
-3. To evaluate the performance of the developed earthquake prediction model using appropriate validation methods and metrics, ensuring its reliability and effectiveness in predicting seismic events in the region.
-
-These objectives, when achieved, will contribute to the overarching aim of improving earthquake prediction and disaster preparedness in Bangladesh, addressing the critical research gap identified in the problem statement and literature review.
 
 ## 6. Research Gap:
 
