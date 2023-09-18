@@ -5,6 +5,17 @@
 
 "Catalyzing Earthquake Prediction in Bangladesh: A Machine Learning Approach"
 
+### 1.1 Introduction
+In the dynamic region situated between the Eurasian and Indian tectonic plates, Bangladesh faces an ongoing seismic risk that demands attention and preparedness. Rapid urbanization and infrastructure development in this densely populated nation underscore the importance of earthquake prediction for disaster mitigation.
+
+This thesis embarks on a pragmatic exploration of earthquake prediction, leveraging the capabilities of machine learning. The objective is to develop a region-specific model tailored to Bangladesh's geological context. This endeavor seeks to enhance early warning systems and inform disaster preparedness strategies, ultimately safeguarding lives and infrastructure.
+
+The following chapters delve into the scientific foundation, data analysis, model development, and validation processes integral to our machine learning approach. Through this research, we aim to contribute valuable insights to the field of earthquake prediction, with a focus on a region that has historically faced seismic challenges.
+
+Welcome to the exploration of "Catalyzing Earthquake Prediction in Bangladesh: A Machine Learning Approach," where data-driven science meets the quest for seismic resilience.
+
+![image](https://github.com/smafraim/Team-20_Thesis/assets/70313535/843b117e-c34d-4a1e-ab4f-6a136ff9c137)
+
 ## 2. Literature Review 
 
 | **Reference** | **Title** | **Authors** | **Publication Year** | **Key Findings** |
