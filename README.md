@@ -31,11 +31,11 @@ Welcome to the exploration of "Catalyzing Earthquake Prediction in Bangladesh: A
 | 9             | Seismic quiescence as an indicator for large earthquakes in a system of self-organized criticality | Hainzl S, Zoller G, Kurths J, Zschau J | 2021 | Examines seismic quiescence as an indicator for large earthquakes in a self-organized criticality system. |
 | 10            | Non-Poissonian earthquake clustering and the hidden Markov model as bases for earthquake forecasting in California | Ebel JE, Chambers DW, Kafka AL, Baglivo JA | 2020 | Discusses non-Poissonian earthquake clustering and the hidden Markov model for earthquake forecasting in California. |
 
-## 3. Problem Statement:
+## 3. Problem Statement
 
 Over the past decades, Bangladesh, situated within the dynamic convergence zone of the Eurasian and Indian tectonic plates, has faced an increasing risk of devastating earthquakes. Despite this vulnerability, there exists an alarming absence of dedicated earthquake prediction models tailored to the region. The absence of accurate earthquake prediction models hinders proactive disaster preparedness, timely response, and mitigation efforts. This research aims to address this critical problem by developing a region-specific earthquake prediction model without suggesting a solution, to enhance the resilience and safety of Bangladesh in the face of seismic hazards.
 
-## 4. Significance of the thesis: 
+## 4. Significance of the thesis
 
 The significance of this thesis lies in its potential to address a pressing issue that affects both the safety and well-being of the people of Bangladesh and the broader field of earthquake prediction research:
 
@@ -51,18 +51,27 @@ The significance of this thesis lies in its potential to address a pressing issu
 
 In summary, this thesis holds significance both in terms of its potential humanitarian impact on a vulnerable population and its contribution to the advancement of earthquake prediction science, making it relevant and important to a wide range of stakeholders.
 
-## 5. Aims/ Objectives:
+## 5. Aims/ Objectives
 
 **Aims:**
 The primary aim of this thesis is to develop a robust and region-specific earthquake prediction model for Bangladesh, situated between the Eurasian and Indian tectonic plates. This model will be designed to enhance disaster preparedness and mitigate the impact of seismic events in the region.
 
-**Objectives:**
+**Objectives**
 1. To employ machine learning techniques, including feature engineering and model training, to develop an accurate earthquake prediction model tailored to the geological characteristics of Bangladesh.
 
 
-## 6. Research Gap:
+## 6. Research Gap
 
 Despite the significant seismic activity potential in the region situated between the Eurasian and Indian plates, there is a notable lack of comprehensive and accurate earthquake prediction models specifically tailored to Bangladesh. Existing research has primarily focused on earthquake prediction in other regions, often overlooking the unique geological characteristics and seismic risks that Bangladesh presents. Therefore, a critical research gap exists in developing and validating machine learning-based earthquake prediction models specifically designed for Bangladesh, which could enhance preparedness and mitigation efforts in this highly vulnerable area. Addressing this gap is essential for improving the region's resilience to seismic hazards and ensuring the safety of its population and infrastructure.
+
+## Gantt Chart
+![Gantt chartTHESIS](https://github.com/smafraim/Team-20_Thesis/assets/70313535/c346a8fb-ec86-47d2-b019-d0eede8ebeab)
+
+
+## Flowchart Methodology
+![flowchart](https://github.com/smafraim/Team-20_Thesis/assets/70313535/ebc74245-cda3-438c-8756-1287d9ca3b19)
+
+
 
 ## Data Overview:
 
