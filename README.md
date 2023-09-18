@@ -75,17 +75,9 @@ Despite the significant seismic activity potential in the region situated betwee
 
 This research employs a data-driven approach to predict earthquakes in Bangladesh, utilizing machine learning techniques. The methodology integrates seismic data, geological information, and real-time monitoring to develop predictive models. The objective is to enhance earthquake preparedness and reduce potential damage.
 
-### Hardware Devices/Tools
-
-1. **Seismic Sensors**: Various seismic sensors are deployed across Bangladesh to collect ground motion data continuously.
-
-2. **Geological Instruments**: Geological instruments, including GPS devices and geodetic equipment, are used to gather geological data relevant to tectonic activity.
-
-3. **Computing Resources**: High-performance computing clusters are employed for data processing and model training.
-
 ### Methods of Data Collection
 
-1. **Seismic Data**: Historical seismic data, spanning several decades, are obtained from national and international seismic databases. Real-time seismic data are acquired through a network of seismic sensors.
+1. **Seismic Data**: Historical seismic data, spanning several decades, are obtained from international seismic databases. Real-time seismic data are acquired through a network of seismic sensors.
 
 2. **Geological Data**: Geological surveys and satellite-based observations provide geological features and tectonic information.
 
@@ -113,9 +105,6 @@ This methodology aligns with the research objectives of improving earthquake pre
 
 The methodology leverages existing research practices in earthquake prediction while introducing a novel approach by integrating machine learning into the prediction process. It addresses a critical gap in earthquake preparedness and disaster mitigation strategies for Bangladesh.
 
----
-
-This methodology section outlines the approach, tools, data collection, analysis methods, and rationale for your earthquake prediction research project, demonstrating its rigor and alignment with research objectives.
 ## Flowchart Methodology
 ![flowchart](https://github.com/smafraim/Team-20_Thesis/assets/70313535/ebc74245-cda3-438c-8756-1287d9ca3b19)
 
