@@ -14,7 +14,7 @@ The following chapters delve into the scientific foundation, data analysis, mode
 
 Welcome to the exploration of "Catalyzing Earthquake Prediction in Bangladesh: A Machine Learning Approach," where data-driven science meets the quest for seismic resilience.
 
-![image](https://github.com/smafraim/Team-20_Thesis/assets/70313535/843b117e-c34d-4a1e-ab4f-6a136ff9c137)
+
 
 ## 2. Literature Review 
 
